@@ -1,1 +1,2 @@
-# Yugioh_cards
+# Yu-Gi-Oh! Trading Card Game Analysis
+The objective of this chapter is to determine whether a monster card will be on the ban list given its Attack, Defense and Level. To understand the ban list system better, some knowledge of the game is required. In a deck, there can only be up to 3 copies of that exact card. There are 3 types of restrictions when it comes to the ban list, first is semi-limited, where only 2 copies are allowed. Limited, where only 1 copy of the card is allowed and forbidden, where the card is not allowed to be in a deck. This is done by supervised learning and un-supervised learning.
